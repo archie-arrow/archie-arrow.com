@@ -30,6 +30,11 @@ body {
     width: 100vw;
 }
 
+.logo {
+    width: 5rem;
+    height: auto;
+}
+
 .content {
     height: 100vh;
     max-width: 50rem;
